@@ -1,0 +1,21 @@
+create-strapi-app ecommerce-backend --quickstart
+any change to package.json, need to follow this commands
+npm i
+npm run build
+npm run develop
+npx create-next-app
+npm run dev
+
+stop the backend and
+npm i strapi-plugin-magic
+npm run build
+npm run develop
+
+
+if some error for backend is "cannot find strapi utils"
+do this command and than start again with npm run develop
+yarn add strapi-utils
+
+
+
+
