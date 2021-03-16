@@ -1,3 +1,6 @@
+## About 
+For this project I was following the video of Alex the Entreprenerd(YouTube channel). This is his profile on github: https://github.com/GalloDaSballo
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
